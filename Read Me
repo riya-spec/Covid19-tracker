@@ -1,0 +1,4 @@
+This  is a covid-19 tracker React Application useful to track the current status and statistics of the Covid-19 pandemic.
+Dependencies to be installed : npm install --save axios react-chartjs-2 react-countup classnames
+To Run - npm start
+It will run on a localhost port:3000
